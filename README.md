@@ -1,26 +1,47 @@
 # 💫 About Me
 
-👋 Hi, I'm Sili Chand  
-🎓 MCA Student | B.Sc. Mathematics Graduate  
-💻 Passionate about Software Development and Web Technologies  
-🌱 Currently learning Full Stack Development (MERN Stack)  
-🚀 Interested in Web Development, Problem Solving, and Open Source Contributions  
-🤝 Looking for internship and collaboration opportunities in Software Development  
-📫 Reach me: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-linkedin-profile
+👋 Hi, I'm Sili Chand
+
+🎓 MCA Student | B.Sc. Mathematics Graduate
+
+💼 Currently working as a Full Stack Development Intern at indiWebPros
+
+💻 Passionate about Full Stack Development, Web Technologies, and Software Engineering
+
+🌱 Currently learning the MERN Stack and building real-world projects
+
+🚀 Interested in Web Development, Cloud Computing, and Open Source Contributions
+
+🤝 Open to collaborating on innovative web development projects
+
+📫 Reach me: silichand0@gmail.com
 
 ---
 
-## 🎯 Current Focus
+## 🚀 Current Journey
 
-- Mastering Full Stack Development
-- Building Real-World Web Applications
-- Strengthening Data Structures & Algorithms
-- Exploring Cloud Technologies
-- Preparing for Software Development Roles
+- MCA Student
+- Full Stack Development Intern at IndiWebPros
+- Building responsive web applications
+- Learning modern frontend and backend technologies
+- Improving Data Structures & Algorithms skills
 
 ---
+
+## 💻 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express.js
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, VS Code
+- Cloud & Deployment: Vercel, Firebase
+
+---
+
+## 🎯 Career Goal
+
+To become a skilled Full Stack Developer and contribute to impactful software products while continuously learning and growing in the tech industry.
 
 ### ⚡ Fun Fact
 
-I transitioned from Mathematics to Computer Applications and enjoy solving logical and programming challenges.
+I transitioned from Mathematics to Computer Applications and enjoy solving both mathematical and programming problems.
